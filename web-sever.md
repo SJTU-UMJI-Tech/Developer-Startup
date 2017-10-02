@@ -14,7 +14,7 @@ I'm afraid of someone can hardly realize that if he have insatlled XAMPP, none o
 
 ## Try to install the softwares on your own
 
-If you didn't open the XAMPP website, or you are not deploying your first web server, the following will hrlp you.
+If you didn't open the XAMPP website, or you are not deploying your first web server, the following will help you.
 
 ### Windows
 
