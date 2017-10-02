@@ -7,8 +7,10 @@ If you are extremely new to web development, and you are not interested in how a
 
 XAMPP runs on Windows, Linux and Mac OS.
 
-It is not recommended, but I have to put it here because it's really the esiest way.
+It is not recommended, but I have to put it here because it's really the easiest way.
 You can find more information about it on the official website above.
+
+I'm afraid of someone can hardly realize that if he have insatlled XAMPP, none of the rest document is necessary.
 
 ## Try to install the softwares on your own
 
